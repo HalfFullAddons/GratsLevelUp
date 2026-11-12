@@ -1,0 +1,4 @@
+<Bindings>
+  <Binding name="GRATS_REPLAY" header="GRATS" category="ADDONS">Grats:Replay(1)</Binding>
+  <Binding name="GRATS_OPTIONS" category="ADDONS">Grats.Options:Open()</Binding>
+</Bindings>

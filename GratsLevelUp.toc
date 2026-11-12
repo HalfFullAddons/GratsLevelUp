@@ -1,0 +1,21 @@
+## Interface: 16001
+## Title: Grats! Level Up
+## Notes: A Warcraft-style celebration every time you ding: stat gains, new training and where to go next.
+## Author: HalfFullAddons
+## Version: @project-version@
+## SavedVariables: GratsDB
+## SavedVariablesPerCharacter: GratsCharDB
+## OptionalDeps: WhatsTraining, BarCheck
+## X-License: MIT
+## X-Notice: Unofficial fan tool. World of Warcraft is a trademark of Blizzard Entertainment.
+
+Data\Training.lua
+Data\Places.lua
+Core.lua
+Theme.lua
+Sound.lua
+Review.lua
+Panel.lua
+Strip.lua
+Options.lua
+Minimap.lua
