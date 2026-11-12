@@ -7,6 +7,7 @@
 ## SavedVariablesPerCharacter: GratsCharDB
 ## OptionalDeps: WhatsTraining, BarCheck
 ## X-License: MIT
+## X-Curse-Project-ID: 1800317
 ## X-Notice: Unofficial fan tool. World of Warcraft is a trademark of Blizzard Entertainment.
 
 Data\Training.lua
